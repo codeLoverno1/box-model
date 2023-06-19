@@ -1,0 +1,18 @@
+.left{
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: blue;
+    color: beige;
+
+}
+.right {
+  border: 1px solid; 
+  padding: 20px; 
+  margin: 20px;
+  background-color: brown;
+  color: beige;
+}
+.heading{
+  color: blue;  
+}
